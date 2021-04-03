@@ -1,6 +1,0 @@
-[core]
-    remote = google_drive_storage
-['remote "myremote"']
-    url = C:/Users/GEBRUI~1/AppData/Local/Temp/dvcstore
-['remote "google_drive_storage"']
-    url = gdrive://1tK1myoZyiCSAszaHGm11ZV770E7S-LNl
