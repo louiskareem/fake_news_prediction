@@ -9,7 +9,7 @@ This is an Machine Learning project to predict fake news.
 * Evaluating models
 * Saving models
 * Data Version Control
-* How to deploy model to Django
+* How to deploy ML model using Django
 * How to productionize model to an online environment, Heroku
 
 There are two branches: main & deployment. Deployment branch is used for deploying the web app to Heroku. Main is used to showcase the work.
