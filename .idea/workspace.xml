@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f7d7a33-a387-40bd-92f6-c71ede11617b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/fake_news_prediction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fake_news_prediction/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fake_news_prediction/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fake_news_prediction/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/plots/confusion.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/plots/confusion_normalized.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/plots/default.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/plots/linear.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/plots/scatter.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvc/plots/smooth.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dvcignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/news_prediction-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/news_prediction_lstm-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/news_prediction_nb_svm_knn_classifier-Copy1-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/news_prediction_nb_svm_knn_classifier-Copy3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/news_prediction_nb_svm_knn_classifier-Copy4-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/news_prediction_nb_svm_knn_classifier-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/news_prediction_v3-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.dvc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/fake_news_prediction/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/.idea/django_fake_news_web_app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/fake_news_prediction/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/db.sqlite3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/Fake.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/True.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/nb_tfidfvec_pred_v3.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/processed_data_v2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/django_fake_news_web_app/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_fake_news_web_app/templates/result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/knn_tfidf_pred_v2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb_countvec_pred_v2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb_tfidfvec_pred_v2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb_tfidfvec_pred_v3.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_prediction_v3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/news_prediction_v3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pa_classifier_tfidf_pred_v2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed_data_v2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/svm_tfidf_pred_v2.pkl" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="fake_news_prediction" type="Python.DjangoServer" factoryName="Django server">
+      <module name="fake_news_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python38\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
