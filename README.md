@@ -9,3 +9,7 @@ This is an Machine Learning project to predict fake news.
 * Evaluating models
 * Saving models
 * Data Version Control
+
+There are two branches: main & deployment. Deployment branch is used for deploying the web app to Heroku. Main is used to showcase the work.
+
+If you would like to test the model in production, here's the link: https://fake-news-prediction-app.herokuapp.com/
